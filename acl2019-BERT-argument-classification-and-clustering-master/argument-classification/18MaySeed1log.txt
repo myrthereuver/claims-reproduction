@@ -1,0 +1,3 @@
+loading region bounding boxes for computing carbon emissions region, this may take a moment...
+   0/454... rate=0 Hz, eta=?, total=0:00:00, wall=11:35 UTC   1/454... rate=4997.98 Hz, eta=0:00:00, total=0:00:00, wall=11:35 UTC 257/454... rate=748.56 Hz, eta=0:00:00, total=0:00:00, wall=11:35 UTC 454/454... rate=719.22 Hz, eta=0:00:00, total=0:00:00, wall=11:35 UTC
+Done!
