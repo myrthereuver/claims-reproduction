@@ -1,4 +1,4 @@
-# This GitHub repository contains all code used to obtain the results in the paper "Are Stance Classes Topic-(in)dependent and Cross-topic Generalizable? - A Reproduction Study"
+# "Are Stance Classes Topic-(in)dependent and Cross-topic Generalizable? - A Reproduction Study"
 
 Contact person: Myrthe Reuver, e-mail: myrthe[dot]reuver[at]vu.nl
 
