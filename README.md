@@ -37,7 +37,7 @@ Topics_Score_Viz.ipynb
 'numpy' == 1.19.5
 'seaborn' == 0.11.1
 
-## 3. Confusion Matrices
+## 3. Confusion Matrices of BERT results
 ### Notebook:
 UKP_confusion_matrices.ipynb
 
