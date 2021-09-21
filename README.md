@@ -12,7 +12,7 @@ The repository is organized as follows:
 - The "analysis-reproduction" folder contains the code we used for the further analyses in our paper, and also the code for the SVM models in our paper as well as the visualizations. These models were ran on ipython notebooks with Python 3.8. 
 
 # requirements
-## SVM experiments 
+## 1. SVM experiments 
 
 ### Notebook: 
 
@@ -25,7 +25,7 @@ SVM_UKPData.ipynb
 'numpy' == 1.19.5
 'seaborn' == 0.11.1
 
-## visualizations
+## 2. visualizations
 
 ### Notebook:
 Topics_Score_Viz.ipynb
@@ -37,7 +37,7 @@ Topics_Score_Viz.ipynb
 'numpy' == 1.19.5
 'seaborn' == 0.11.1
 
-## Confusion Matrices
+## 3. Confusion Matrices
 ### Notebook:
 UKP_confusion_matrices.ipynb
 
