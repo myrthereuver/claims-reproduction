@@ -25,7 +25,7 @@ SVM_UKPData.ipynb
 'numpy' == 1.19.5
 'seaborn' == 0.11.1
 
-## 2. visualizations
+## 2. Visualizations
 
 ### Notebook:
 Topics_Score_Viz.ipynb
