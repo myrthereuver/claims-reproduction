@@ -12,7 +12,7 @@ The repository is organized as follows:
 - The "analysis-reproduction" folder contains the code we used for the further analyses of their results in our paper, and also the code for our SVM models as well as our visualizations. These analyses and models were ran in ipython notebooks with Python 3.9. 
 
 # requirements
-## 1. SVM experiments 
+## 1. SVM experiments (classification + feature finding)
 
 ### Notebook: 
 
