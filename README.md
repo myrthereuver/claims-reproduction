@@ -51,8 +51,8 @@ UKP_confusion_matrices.ipynb
 'numpy' == 1.19.5
 'seaborn' == 0.11.1
 
-### 4. Finding how frequent errors are over BERT seeds, which errors occur at least in threshold=N seeds:
-## Notebook: 
+## 4. Finding how frequent errors are over BERT seeds, which errors occur at least in threshold=N seeds:
+### Notebook: 
 Frequent_errors_BERT.ipynb
 
 ### requirements (python 3.9):
