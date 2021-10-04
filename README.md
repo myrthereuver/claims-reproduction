@@ -25,10 +25,13 @@ SVM_UKPData.ipynb
 'numpy' == 1.19.5
 'seaborn' == 0.11.1
 
-## 2. Visualizations
+## 2. Visualizations of BERT results:
 
 ### Notebook:
 Topics_Score_Viz.ipynb
+
+### .csv file with scores from output: 
+BERT_Topics_score_last.csv
 
 ### requirements (python 3.9):
 'sklearn' == 0.24.2
@@ -47,6 +50,14 @@ UKP_confusion_matrices.ipynb
 'matplotlib' == 3.4.2
 'numpy' == 1.19.5
 'seaborn' == 0.11.1
+
+### 4. Finding how frequent errors are over BERT seeds, which errors occur at least in threshold=N seeds:
+## Notebook: 
+Frequent_errors_BERT.ipynb
+
+### requirements (python 3.9):
+'sklearn' == 0.24.2
+'pandas' == 1.2.4
 
 
 
