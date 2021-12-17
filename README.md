@@ -1,5 +1,5 @@
 # "Are Stance Classes Topic-Independent and Cross-topic Generalizable? - A Reproduction Study"
-Related publication: "Are Stance Classes Topic-Independent and Cross-topic Generalizable? - A Reproduction Study", Argument Mining workshop (co-located with EMNLP 2021). [link]
+Related publication: "Are Stance Classes Topic-Independent and Cross-topic Generalizable? - A Reproduction Study", Argument Mining workshop (co-located with EMNLP 2021). [Link to paper](https://aclanthology.org/2021.argmining-1.5.pdf)
 
 Contact person: Myrthe Reuver, e-mail: myrthe[dot]reuver[at]vu.nl
 
